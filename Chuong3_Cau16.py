@@ -1,0 +1,1 @@
+#Chương trình in ra 16 dấu * (với mỗi bước nhảy 5 từ 20 đến 100 thì chương trình in ra 1 dấu *)

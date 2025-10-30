@@ -1,0 +1,1 @@
+#Vô số dấu * vì điều kiện a luon < 100 
